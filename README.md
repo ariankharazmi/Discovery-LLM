@@ -1,1 +1,1 @@
-# Discovery
+# Discovery LLM
